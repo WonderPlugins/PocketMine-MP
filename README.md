@@ -17,6 +17,7 @@
 
 __PocketMine-MP is a free, open-source software that creates Minecraft: Pocket Edition servers and allows extending its functionalities__
 
+### FishKan is an unofficial fork of PMMP
 ### [Homepage](http://www.pocketmine.net/)
 
 ### [Forums](http://forums.pocketmine.net/)
